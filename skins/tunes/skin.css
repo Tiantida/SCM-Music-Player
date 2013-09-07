@@ -1,5 +1,5 @@
 #player,#player a{ color:#333; }
-#player{ background:url(sizerAndVol.png); background-position:bottom; }
+#player{ background:url(sizerAndVol.png); background-position:top; }
 #player .mainImage{ background:url(main.png); }
 
 #player #baseLeft{ width:93px; }
